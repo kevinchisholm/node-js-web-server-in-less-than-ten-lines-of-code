@@ -1,6 +1,6 @@
 [![Node.Js Connect Logo](http://www.nodejsconnect.com//sites/default/themes/drupalconnect/images/layout/logo-lo.png)](http://www.nodejsconnect.com/)
 
-# node-js-web-server-in-less-than-ten-lines-of-code
+# Node.js web server in less than ten lines of code
 
 ## Code Examples for [Node.Js Connect](http://www.nodejsconnect.com/) Blog Post: Creating a Node.js web server in less than ten lines of code.
 
