@@ -8,7 +8,7 @@
 
 What you need to run this app:
 
-* [Node.Js](https://nodejs.org) 
+* <a href="https://nodejs.org" target="_blank">Node.Js</a>
 
 ## Instructions
 
